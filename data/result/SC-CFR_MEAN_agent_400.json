@@ -1,0 +1,295 @@
+{
+    "len": 10,
+    "data": [
+        {
+            "within-RMSE": 2.063510019501995,
+            "within-PEHE": 2.0769307998066413,
+            "within-ATE": 0.5100493404995553,
+            "outof-RMSE": 2.4076046468266252,
+            "outof-PEHE": 2.3970156891187457,
+            "outof-ATE": 0.6323344237415494,
+            "train-RMSE": 3.4855861071999192,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 0,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.9096043491345887,
+            "within-PEHE": 1.888599482251258,
+            "within-ATE": 0.4379103959142845,
+            "outof-RMSE": 1.8722951585912972,
+            "outof-PEHE": 1.8575004165078706,
+            "outof-ATE": 0.5031961692461135,
+            "train-RMSE": 5.243583997090657,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 1,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 2.0721958867306443,
+            "within-PEHE": 2.275734868393703,
+            "within-ATE": 0.6335911088500202,
+            "outof-RMSE": 2.327158572839086,
+            "outof-PEHE": 2.4813420536947572,
+            "outof-ATE": 0.7024560508065646,
+            "train-RMSE": 4.106703829821684,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 2,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.661761562403671,
+            "within-PEHE": 1.860922959355204,
+            "within-ATE": 0.4467640689642421,
+            "outof-RMSE": 1.7343683033212687,
+            "outof-PEHE": 1.8935930896053996,
+            "outof-ATE": 0.5321703807507093,
+            "train-RMSE": 3.498937084883381,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 3,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.989200310839345,
+            "within-PEHE": 1.9741146913079963,
+            "within-ATE": 0.45334447728710037,
+            "outof-RMSE": 1.989063258340882,
+            "outof-PEHE": 1.921043510310518,
+            "outof-ATE": 0.4064337017892436,
+            "train-RMSE": 3.921441574186862,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 4,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.8144473916171797,
+            "within-PEHE": 1.9898570970599292,
+            "within-ATE": 0.47504113396530284,
+            "outof-RMSE": 1.9755998832463573,
+            "outof-PEHE": 2.042987117301748,
+            "outof-ATE": 0.5496724797391336,
+            "train-RMSE": 4.276077107616632,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 5,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.863978197728415,
+            "within-PEHE": 2.115708914601699,
+            "within-ATE": 0.5082768080218383,
+            "outof-RMSE": 1.8821944790187382,
+            "outof-PEHE": 2.113699610838991,
+            "outof-ATE": 0.4395038428415027,
+            "train-RMSE": 4.046861021794889,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 6,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 2.0565147217177704,
+            "within-PEHE": 2.1942670876790507,
+            "within-ATE": 0.620063897710221,
+            "outof-RMSE": 1.8654851272858557,
+            "outof-PEHE": 2.01636020052,
+            "outof-ATE": 0.7059290456083838,
+            "train-RMSE": 4.566366291497053,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 7,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.6836299963417634,
+            "within-PEHE": 1.8226871472451094,
+            "within-ATE": 0.4629757396540128,
+            "outof-RMSE": 1.6241830540443343,
+            "outof-PEHE": 1.7001457556836737,
+            "outof-ATE": 0.5002745425214289,
+            "train-RMSE": 4.102592888735146,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 8,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.7192404744842016,
+            "within-PEHE": 1.876608259800887,
+            "within-ATE": 0.5030415456478551,
+            "outof-RMSE": 1.7454012371095413,
+            "outof-PEHE": 1.8837287379246663,
+            "outof-ATE": 0.5551954351972341,
+            "train-RMSE": 4.113434100545608,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "MEAN",
+            "expid": 9,
+            "model": "SC-CFR",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 1e-06,
+            "sig": 1.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        }
+    ]
+}

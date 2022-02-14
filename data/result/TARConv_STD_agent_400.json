@@ -1,0 +1,295 @@
+{
+    "len": 10,
+    "data": [
+        {
+            "within-RMSE": 1.8139348817247472,
+            "within-PEHE": 2.1372521464312433,
+            "within-ATE": 0.632737699053455,
+            "outof-RMSE": 2.2345489859589485,
+            "outof-PEHE": 2.316195341038002,
+            "outof-ATE": 0.6666546516297179,
+            "train-RMSE": 3.3364866721151003,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 0,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.8948196679105327,
+            "within-PEHE": 2.141667875967802,
+            "within-ATE": 0.9001963084820984,
+            "outof-RMSE": 1.9853274311326783,
+            "outof-PEHE": 2.2227448540836776,
+            "outof-ATE": 1.0385444919122517,
+            "train-RMSE": 4.855422866541725,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 1,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.8666232427545413,
+            "within-PEHE": 2.1619535842669513,
+            "within-ATE": 0.7792095646120044,
+            "outof-RMSE": 1.8016604556752944,
+            "outof-PEHE": 2.1224522364264113,
+            "outof-ATE": 0.6642356241906757,
+            "train-RMSE": 3.7829835769977977,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 2,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.7224964483161147,
+            "within-PEHE": 1.9657614030000226,
+            "within-ATE": 0.5791753004602804,
+            "outof-RMSE": 1.7846279332630572,
+            "outof-PEHE": 2.0019051606201277,
+            "outof-ATE": 0.6591919383783451,
+            "train-RMSE": 3.878207055671277,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 3,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 2.2111583926129375,
+            "within-PEHE": 2.4865994471513364,
+            "within-ATE": 0.6479776613757856,
+            "outof-RMSE": 2.1252048503662895,
+            "outof-PEHE": 2.407661411566213,
+            "outof-ATE": 0.703107784884166,
+            "train-RMSE": 4.02216225256593,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 4,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 2.2504136921994724,
+            "within-PEHE": 2.4819700519809853,
+            "within-ATE": 0.6957431053617089,
+            "outof-RMSE": 2.4676818471532047,
+            "outof-PEHE": 2.640843922029985,
+            "outof-ATE": 0.7384328738142854,
+            "train-RMSE": 4.486876607223042,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 5,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.7527482240674912,
+            "within-PEHE": 1.9701367206605667,
+            "within-ATE": 0.5572680332483093,
+            "outof-RMSE": 1.6516649540042077,
+            "outof-PEHE": 1.864253902837909,
+            "outof-ATE": 0.5681338647257939,
+            "train-RMSE": 5.338468340835391,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 6,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.8755825915694098,
+            "within-PEHE": 2.0729339779182316,
+            "within-ATE": 0.4761571981023144,
+            "outof-RMSE": 1.7347082709626878,
+            "outof-PEHE": 1.9887814298029385,
+            "outof-ATE": 0.6030057881449274,
+            "train-RMSE": 3.858500422033576,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 7,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.5429780863428426,
+            "within-PEHE": 1.7398072268816969,
+            "within-ATE": 0.43485055441817727,
+            "outof-RMSE": 1.5140829775881517,
+            "outof-PEHE": 1.6587186839553727,
+            "outof-ATE": 0.5896298877532274,
+            "train-RMSE": 3.8083882016211255,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 8,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        },
+        {
+            "within-RMSE": 1.7838950252261703,
+            "within-PEHE": 1.8855974120257586,
+            "within-ATE": 0.48734908943179384,
+            "outof-RMSE": 1.9735591396224197,
+            "outof-PEHE": 2.0162702811700064,
+            "outof-ATE": 0.49179410218434544,
+            "train-RMSE": 3.938604324421984,
+            "source_data_path": "./data/source_data",
+            "biased_data_path": "./data/biased_data",
+            "outpath": "./data/result",
+            "agent": 400,
+            "outcome": "STD",
+            "expid": 9,
+            "model": "TARConv",
+            "hidden_rep": 10,
+            "c_rep": [
+                10,
+                10
+            ],
+            "c_out": [
+                80,
+                50
+            ],
+            "alpha": 0.0,
+            "sig": 0.0,
+            "lr": 0.01,
+            "wd": 1e-08
+        }
+    ]
+}
